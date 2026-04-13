@@ -1,4 +1,6 @@
 06/04
 Hoje, foi realizado o cadastro da minha conta no github cujo nome é joaotoledohenrique-wq, 
 juntamente da instalação do git bash pelo site https://gitforwindows.org/ para futuramente utilizar durante a aula.
-aaaaaa
+
+13/04
+hoje iremos atualizar o arquivoo no github
